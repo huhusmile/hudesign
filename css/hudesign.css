@@ -1,0 +1,122 @@
+
+
+/*---------------------menubar----------------------------*/
+#menubar{width: 100%; height: 120px; color: #888; background-image: url("../images/website_bg_tile-21.gif"); background-position: 50% 50%; background-repeat: repeat; border-top: 3px solid #444; border-bottom: 1px solid #eee;}
+#menucon{width: 980px; height: 104px; padding: 0 30px; margin: 0 auto; position: relative;}
+#menua{position: absolute; top: 20px; left: 30px;}
+#menu{display: block; float: right; margin-top: 24px;}
+#menu li{position: relative; text-align: left; padding: 26px 0; float: left; display: block; z-index: 9;margin-top: 2px;}
+#menu li a{color: #777; font-size: 12px; margin: 0 5px; border-radius: 3px; padding: 5px 14px;}
+#menu li a:hover{color: #e60012;}
+
+/*---------------------menubar End----------------------------*/
+
+
+/*---------------------homeslider----------------------------*/
+#homeslider{width: 980px; height: 345px; padding: 15px 30px; margin: auto;}
+.honepage{width: 980px; height: 360px; position: relative;}
+.showimg{display: block; }
+#img2{display: none; position: absolute; left: 0 ; top: 0;}
+/*---------------------homeslider end----------------------------*/
+
+
+
+
+/*--------------------homecolumns-----------------------------*/
+#homecolumns{width: 100%; height: 182px; padding: 15px 0 10px 0;}
+.columnscon{width: 980px; height: 182px; padding: 0 30px; margin: 0 auto;}
+.fourthone{width: 218px; height: 174px; float: left; margin: 4px 35px 4px 0; text-align: left;}
+.fourthone p{width: 218px; font-size: 12px; color: #888;}
+.titleicon{width: 218px; height: 60px;}
+.titleicon img{margin: 5px 10px 10px 0; float: left;}
+.customfont{color: #444; font-size: 20px; font-weight: 600; line-height: 24px; float: left; padding-top: 18px;}
+.more{margin-top: 15px; font-size: 11px; color: #e24608; display: block;}
+.more:hover{color: #444;}
+#one4{margin-right: 0;}
+/*--------------------homecolumns end-----------------------------*/
+
+
+
+
+
+/*--------------------latestcon-----------------------------*/
+.latestcon{width: 980px; height: 224px; padding: 64px 30px 0; margin: 0px auto 0; text-align: left; background-image: url("../images/home.jpg"); background-repeat: no-repeat;}
+.latesone{width: 218px; height: 210px; margin: 4px 35px 4px 0; float: left;}
+.latesone p{width: 218px; font-size: 12px; color: #888; padding: 11px 0;}
+.btnmore{display: block;width: 99px; height: 19px; background-color: #e24608; opacity: 0.8; color: #fff; padding: 4px 15px; margin-top: 20px; border:1px solid #bf2706; border-radius: 4px; font-size: 12px; font-weight: 600; line-height: 19px;}
+
+.image{width: 218px; height: 104px; margin-bottom: 20px; border:1px solid #ccc; border-radius: 3px; box-shadow: 0 0 1px rgba(0,0,0,0.2);}
+.imgholder{position: relative; display: block;}
+.imghover{display: none; width: 100%; height: 100%; border-radius: 3px; position: absolute; top: 0; left: 0; z-index: 2; background-color: #000; opacity: 0.7;}
+
+
+.customfont1{color: #444; line-height: 19px; font-size: 16px; margin-bottom: 10px; font-weight: 600;}
+.customfont1 a{color: #444;}
+.customfont1 a:hover{color: #e24608;}
+.description{width: 218px; height: 44px;}
+.extrainfo{font-style: italic; color: #888; font-size: 9px; display: block; margin-top: 4px;}
+.moreinfo{color: #444; border: 1px solid #ccc; box-shadow: 0 0 3px rgb(238,238,238); text-shadow:1px 1px 1px rgb(255,255,255); display: block; width: 36px; font-size: 10px; border-radius: 2px; padding: 2px 12px; margin-top: 20px; background-color: #ddd;}
+.moreinfo:hover{background-color: #eee;}
+/*--------------------latestcon end-----------------------------*/
+
+
+
+
+/*---------------------fullcon----------------------------*/
+.fullcon{width: 980px; height: 476px; padding: 5px 30px 20px; margin: 20px auto 0;}
+
+.widgets{width: 980px; height: 325px; margin-top: 10px; margin-bottom: -10px;}
+.preload{width: 460px; height: 284px; margin: 10px 0; padding: 10px 0; float: left;}
+.marright{width: 460px; height: 305px; margin: 10px 0; padding: 10px 0; float: right; position: relative;}
+
+.h3con{padding-bottom: 10px; margin-bottom: 10px; border-bottom: 1px solid #ddd; width: 460px; text-align: left; display: block;}
+
+#wp{display: block; width: 460px; height: 248px; position: absolute; top: 75px; left:0;}
+.widgetposts{margin: 7px 0; padding: 7px 0; border-bottom: 1px dotted #ccc; display: block; width: 460px; height: 96px;}
+.left{float: left; width: 65px; height: 65px; margin-right: 10px; border:1px solid #ccc; border-radius: 3px; box-shadow: 0 0 1px rgba(0,0,0,0.2);}
+.right{float: left; width: 382px; text-align: left;}
+.right p{line-height: 18px; font-size: 12px; color: #888; display: block;}
+
+/*---------------------fullcon end----------------------------*/
+
+
+
+
+
+/*--------------------footer-----------------------------*/
+#footer{width: 1040px; height: 574px; margin: 0 auto; text-align: left;}
+#footerwrapper{width: 980px; height: 438px; padding: 15px 30px 0; margin: 20px auto 10px; background-color: #383838;}
+#footermenu{width: 980px; height: 100px; padding: 25px 30px 0; margin: -10px auto 0; background-image: url("../images/foot.jpg"); background-repeat: no-repeat; background-color: #383838;}
+
+.font1{font-size: 12px; color: #aaa; line-height: 19px;}
+.font2{font-size: 12px; color: #fff; line-height: 19px;}
+.font2:hover{color: #e24608;}
+.font3{padding-bottom: 10px; margin-bottom: 10px; color: #fff; text-shadow:1px 1px 1px rgb(34,34,34); border-bottom: 1px solid #666; font-size: 16px; font-weight: 500; line-height: 20px;}
+
+#foottext{float: left; margin-top: 13px;}
+#menufoot{float: right;}
+#menufoot li{float: left; margin: 13px 0 7px; padding: 0 12px; border-right: 1px solid #aaa;}
+
+
+.footercols{width: 218px; height: 430px; margin: 4px 35px 4px 0; float: left;}
+.custom{padding: 7px 0;}
+.boxmore{display: block; width: 40px; height: 16px; background-color: #333; border: 1px solid #222; padding: 4px 15px; margin-top: 20px; color: #fff; font-size: 10px; line-height: 16px;}
+.boxmore:hover{background-color: #383838;}
+.fonttext{padding: 9px 0;}
+.menushare li{display: block; width: 218px; height: 19px; padding: 4px 0; border-bottom:1px dotted #555;}
+/*--------------------footer end-----------------------------*/
+
+
+
+
+/*-------------------------------------------------*/
+#fancyboxover{display: none; height: 2115px; width: 100%; position: absolute; left: 0; top: 0; z-index: 2100; background-color: #777; opacity: 0.7; cursor: pointer;}
+#fancywrap{display: none; width: 635px; height: auto; position: absolute; left: 337px; top: 20px; z-index: 2101; padding: 20px;}
+#fancyout{}
+
+/*-------------------------------------------------*/
+
+
+
+/*-------------------------------------------------*/
+/*-------------------------------------------------*/
